@@ -18,6 +18,8 @@ public class SelectionSort {
 		for(int num : arr)
 		{
 			System.out.println(num);
+			
+			
 		}
 	}
 	
@@ -41,4 +43,6 @@ public class SelectionSort {
 			arr[i] = temp ;
 		}
 	}
+	
+
 }
